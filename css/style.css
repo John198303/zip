@@ -1,0 +1,73 @@
+input {
+  font-size: 16px;
+  padding: 4px;
+}
+
+.result {
+  width: 90%;
+  min-width: 300px;
+  
+}
+
+.row {
+  margin-top: 1em;
+}
+
+.row label {
+  display: block;
+  min-width: 10em;
+}
+
+.row input, .row textarea {
+  width: 100%;
+}
+#bank{
+	width: 92%;
+	border-radius: 2px;
+	
+	
+	
+}
+h1{
+	color: black;
+	text-align: left;
+	
+}
+.bank{
+	margin-left: 20px;
+	margin-top: 75px;
+	float: left;
+	
+	width: 600px;
+	min-height:430px;
+	
+	
+	
+}
+.header{
+	text-align: center;
+	font-size: 26px;
+	color: white;
+	background-color: #474545;
+	margin-top: 0px;
+	position: absolute;
+	width: 100%;
+}
+.org{
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 75px;
+	
+	width: 600px;
+	min-height:430px;
+	
+}
+#party{
+	width: 92%;
+	border-radius: 2px;
+}
+#type2{
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
